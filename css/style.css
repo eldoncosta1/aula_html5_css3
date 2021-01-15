@@ -1,0 +1,40 @@
+* {
+  
+}
+
+body {    
+  background: #f2fafa;
+  
+  margin: 30px;
+}
+
+header {
+  margin-top: 70px;
+}
+
+h1 {
+  font-family: fantasy;
+}
+
+h2 {
+  color:  #5f68d1;
+  font-family: fantasy;
+}
+
+p {
+  font-size: 18px;
+}
+
+.img_padrao {
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+footer {
+  margin-bottom: 30px;
+}
+
+.img_contato {
+  width: 30px;
+}
+
